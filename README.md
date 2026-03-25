@@ -14,7 +14,8 @@
 ---
 
 ## 💫 About Me
-`python
+
+```python
 kanish = {
     "name"        : "Kanish Tyagi",
     "role"        : "Data Scientist & AI/ML Engineer",
@@ -25,7 +26,7 @@ kanish = {
     "currently"   : "Building Adaptive AI Tutor with RL + Claude API",
     "superpower"  : "Turning messy data into intelligent decisions 🧠",
 }
-`
+```
 
 - 🔭 **Working on:** Adaptive AI Study Tutor — UCB1 Multi-Armed Bandit RL + Claude API for real-time personalized learning
 - 👯 **Collaborating on:** LLM-powered apps, RAG pipelines, NLP & predictive analytics with real-world impact
@@ -183,14 +184,3 @@ kanish = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
-```
-
----
-
-**⚠️ One important note:** The code block in the About Me section — remove the spaces I added in the closing backticks. The line that says `` ` ` ` `` should be ` ``` ` (three backticks together, no spaces). I had to add spaces to show it here without breaking the formatting.
-
-**Steps:**
-1. Go to `github.com/kanish5/kanish5` repo
-2. Click `README.md` → pencil icon to edit
-3. Select all → paste this
-4. Commit changes ✅
