@@ -14,7 +14,7 @@
 ---
 
 ## 💫 About Me
-``python
+`python
 kanish = {
     "name"        : "Kanish Tyagi",
     "role"        : "Data Scientist & AI/ML Engineer",
@@ -25,7 +25,7 @@ kanish = {
     "currently"   : "Building Adaptive AI Tutor with RL + Claude API",
     "superpower"  : "Turning messy data into intelligent decisions 🧠",
 }
-` ` 
+`
 
 - 🔭 **Working on:** Adaptive AI Study Tutor — UCB1 Multi-Armed Bandit RL + Claude API for real-time personalized learning
 - 👯 **Collaborating on:** LLM-powered apps, RAG pipelines, NLP & predictive analytics with real-world impact
