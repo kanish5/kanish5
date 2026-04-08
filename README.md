@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kanish%20Tyagi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20LLM%20Builder&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kanish%20Tyagi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Product%20Strategy%20%7C%20AI%20PM%20Candidate%20%7C%20QA%20%E2%86%92%20DS%20%E2%86%92%20Product&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=M.S.+Data+Science+%40+UT+Arlington+%F0%9F%8E%93;3%2B+Years+Engineering+Experience+%F0%9F%9B%A0%EF%B8%8F;Building+AI+Systems+that+Think+%F0%9F%A4%96;QA+Engineer+%E2%86%92+Data+Scientist+%F0%9F%9A%80;Open+to+Data+Analyst+%26+DS+Roles+%F0%9F%93%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=MS+Data+Science+%40+UT+Arlington+%F0%9F%8E%93;QA+Engineer+%E2%86%92+Data+Science+%E2%86%92+Product+%F0%9F%9A%80;Building+AI-Powered+Products+%F0%9F%A4%96;B2B+SaaS+%7C+GTM+Strategy+%7C+Pricing+Models+%F0%9F%8E%AF;Open+to+APM+%26+Product+Strategy+Roles+%F0%9F%93%A2)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kanish5.github.io-00FF88?style=for-the-badge&labelColor=0d1117)](https://kanish5.github.io/kanish-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kanishtyagi123-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishtyagi123)
@@ -18,22 +18,24 @@
 ```python
 kanish = {
     "name"        : "Kanish Tyagi",
-    "role"        : "Data Scientist & AI/ML Engineer",
+    "role"        : "Product Strategy & AI PM Candidate",
     "education"   : "M.S. Data Science @ UT Arlington (Dec 2026)",
-    "background"  : "3+ yrs QA Engineer → now building AI systems",
+    "background"  : "3+ yrs QA Engineer → Data Science → Product",
     "location"    : "Arlington, TX 🇺🇸",
-    "open_to"     : ["Data Scientist", "Data Analyst", "ML Engineer"],
-    "currently"   : "Building Adaptive AI Tutor with RL + Claude API",
-    "superpower"  : "Turning messy data into intelligent decisions 🧠",
+    "open_to"     : ["APM", "Product Strategy Intern", "AI PM"],
+    "cpt_eligible": "May 2026 ✅",
+    "currently"   : "Building PM portfolio · Open Source at Microsoft",
+    "superpower"  : "I break products AND know how to fix them 🧠",
 }
 ```
 
-- 🔭 **Working on:** Adaptive AI Study Tutor — UCB1 Multi-Armed Bandit RL + Claude API for real-time personalized learning
-- 👯 **Collaborating on:** LLM-powered apps, RAG pipelines, NLP & predictive analytics with real-world impact
-- 🤝 **Looking for:** My first Data Scientist / Analyst role — open to referrals, networking & mock interviews!
-- 🌱 **Learning:** MLOps, LLM fine-tuning, AWS/GCP deployment — bridging notebooks → production
-- 💬 **Ask me about:** ML pipelines, LangChain/RAG, Python, RL systems, or my QA → DS journey
-- ⚡ **Fun fact:** Cut post-release defects by 30% as a QA Engineer — now I build AI that teaches itself. Debugging models > debugging code 🚀
+- 🎯 **Background:** 3+ years in QA taught me how products fail — now I want to own how they succeed
+- 🚀 **Product Work:** Go-to-market strategy & pricing for a B2B SaaS startup (FoundersBoost NYC 2026 accelerator)
+- 🤖 **AI PM angle:** Built RL-powered AI Tutor (UCB1 + Claude API) — owned full lifecycle from idea → deployed product
+- 🔧 **Open Source:** 5 merged PRs to Microsoft's `agent-governance-toolkit` — writing about AI governance on Dev.to
+- 🏆 **Recognition:** 2nd Runner-Up AWS GenAI Hackathon · Speaker @ UTA Business Analytics Symposium 2026
+- 💬 **Ask me about:** Product strategy, pricing models, QA → PM pivot, or anything AI/ML
+- ⚡ **Fun fact:** I spent 3 years breaking products before realizing I understood them better than most PMs building them
 
 ---
 
@@ -41,31 +43,45 @@ kanish = {
 
 <div align="center">
 
-| 🎤 Speaker | 🏆 Hackathon | ✅ Certified | 📜 Certified |
+| 🎯 Product | 🎤 Speaker | 🏆 Hackathon | 🔧 Open Source |
 |:---:|:---:|:---:|:---:|
-| UTA Business Analytics Symposium 2026 | 2nd Runner-Up — AWS GenAI Hackathon | ISTQB Foundation Level | Google Data Analytics Professional |
+| FoundersBoost NYC Spring 2026 | UTA Business Analytics Symposium 2026 | 2nd Runner-Up — AWS GenAI Hackathon | 5 PRs Merged @ Microsoft |
+
+| ✅ Certified | 📜 Certified |
+|:---:|:---:|
+| ISTQB Foundation Level | Google Data Analytics Professional |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Case Studies
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---|---|---|
-| 🤖 **[Adaptive AI Study Tutor](https://kanish5.github.io/kanish-portfolio/#projects)** | Python · UCB1 RL · Claude API · Streamlit · SQLite | 18 config arms · Real-time adaptation · Full-stack |
-| 🏥 **Health Center Attrition Predictor** | Scikit-learn · XGBoost · Pandas · GridSearchCV | 87% accuracy · 1,400+ records · 3 models compared |
-| 🏠 **Airbnb Price Insights** | Pandas · Matplotlib · Streamlit · EDA | 50K+ listings · Interactive dashboard · Geo pricing |
-| 👥 **Customer Segmentation** | K-Means · PCA · Scikit-learn · Seaborn | 4 segments · PCA dim reduction · Marketing insights |
-| 📈 **Market Data Forecasting** | ARIMA · Pandas · Matplotlib · Time Series | Automated pipeline · Exponential smoothing |
+| Project | Type | Stack | Highlights |
+|---|---|---|---|
+| 🎯 **B2B SaaS GTM & Pricing Strategy** | Product Case Study | Go-to-Market · Pricing · Competitive Analysis | 3-tier model · FoundersBoost NYC 2026 |
+| 🤖 **[Adaptive AI Study Tutor](https://kanish5.github.io/kanish-portfolio/#projects)** | AI Product | Python · UCB1 RL · Claude API · Streamlit | 18 config arms · Deployed · Full product lifecycle |
+| 📊 **GenAI ROI Analysis** | Data + Strategy | Python · Pandas · Business Analytics | 90K+ survey rows · Presented at UTA Symposium 2026 |
+| 🔧 **Microsoft Agent Governance Toolkit** | Open Source | Python · AI Governance · GitHub | 5 merged PRs · Dev.to articles |
+| 🏥 **Health Center Attrition Predictor** | ML | Scikit-learn · XGBoost · Pandas | 87% accuracy · 1,400+ records |
+| 🏠 **Airbnb Price Insights** | EDA Dashboard | Pandas · Matplotlib · Streamlit | 50K+ listings · Interactive dashboard |
 
 </div>
 
 ---
 
 ## 💻 Tech Stack
+
+### 🎯 Product & Strategy
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🧠 AI / ML / Data
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -74,35 +90,33 @@ kanish = {
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🤖 GenAI & LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20API-CC785C?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ DevOps / Testing / Tools
+### 🛠️ Dev & Testing Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
@@ -150,7 +164,6 @@ kanish = {
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00FF88?style=for-the-badge&labelColor=0d1117)](https://kanish5.github.io/kanish-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishtyagi123)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishtyagi123@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kanishtyagii)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanish5)
 
 </div>
